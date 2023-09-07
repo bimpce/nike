@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'http://bimpce.github.io/nike',
+  base: 'https://bimpce.github.io/nike',
   plugins: [react()],
 });
